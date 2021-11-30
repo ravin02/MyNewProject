@@ -14,5 +14,8 @@ public class App {
         int x=0;
 
         int k= 0;
+
+        int b =0;
+
     }
 }
