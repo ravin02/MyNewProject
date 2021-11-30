@@ -9,5 +9,10 @@ public class App {
 
 
         String y = "hello";
+
+
+        int x=0;
+
+        int k= 0;
     }
 }
