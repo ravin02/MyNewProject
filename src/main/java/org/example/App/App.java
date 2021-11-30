@@ -3,6 +3,11 @@ package org.example.App;
 public class App {
 
     public static void main(String[] args) {
-        System.out.println("hello world!");
+
+
+        //my function
+
+
+        String y = "hello";
     }
 }
