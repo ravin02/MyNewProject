@@ -3,6 +3,10 @@ package org.example.App;
 public class App {
 
     public static void main(String[] args) {
-        System.out.println("hello world!");
+
+
+        int x=0;
+
+        int y = 0;
     }
 }
